@@ -52,3 +52,7 @@ blockquote {
   padding: 20px;
   border-left: grey solid 4px;
 }
+
+ol {
+  list-style-position: inside;
+}
