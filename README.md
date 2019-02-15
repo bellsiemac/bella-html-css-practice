@@ -1,5 +1,5 @@
-# HTML Practice
+# HTML CSS Practice
 
 Bella McWhorter
 
-due February 10
+due February 17
